@@ -1,0 +1,6 @@
+{
+  "name": "Simulador de Crédito Bancario",
+  "description": "Un simulador de crédito bancario interactivo con cálculo de cuotas, tasas aplicadas, seguros y un plan detallado de amortización.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
